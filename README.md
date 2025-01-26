@@ -1,6 +1,3 @@
-
-
-
 <html lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
 <head>
 <title>designs</title>
@@ -101,7 +98,7 @@
 <tbody>
 <tr>
 <td>
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-size: auto; background-color: #0b74a1; border-bottom: 15px dashed #0b74a1; border-left: 15px dashed #0b74a1; border-right: 15px dashed #0b74a1; border-top: 15px dashed #0b74a1; color: #b74a1; width: 600px; margin: 0 auto;" width="600">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-size: auto; background-color: #0b74a1; border-bottom: 15px dashed #0b74a1; border-left: 15px dashed #0b74a1; border-right: 15px dashed #0b74a1; border-top: 15px dashed #0b74a1; color: #000000; width: 600px; margin: 0 auto;" width="600">
 <tbody>
 <tr>
 <td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
@@ -149,14 +146,14 @@
 </td>
 </tr>
 </table>
-
+<table border="0" cellpadding="10" cellspacing="0" class="heading_block block-5" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
 <tr>
 <td class="pad">
-<h2 style="margin: 0; color: #0b74a1; direction: ltr; font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: 400; letter-spacing: normal; line-height: 120%; text-align: left; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 36px;"><span class="tinyMce-placeholder" style="word-break: break-word;">Hola, soy Efrén<br/></span></h2>
+<h2 style="margin: 0; color: #000000; direction: ltr; font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: 400; letter-spacing: normal; line-height: 120%; text-align: left; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 36px;"><span class="tinyMce-placeholder" style="word-break: break-word;">Hola, soy Efrén<br/></span></h2>
 </td>
 </tr>
 </table>
-
+<table border="0" cellpadding="10" cellspacing="0" class="divider_block block-6" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
 <tr>
 <td class="pad">
 <div align="center" class="alignment">
