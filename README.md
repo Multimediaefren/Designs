@@ -101,7 +101,7 @@
 <tbody>
 <tr>
 <td>
-<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-size: auto; background-color: #0b74a1; border-bottom: 15px dashed #0b74a1; border-left: 15px dashed #0b74a1; border-right: 15px dashed #0b74a1; border-top: 15px dashed #0b74a1; color: #000000; width: 600px; margin: 0 auto;" width="600">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-size: auto; background-color: #0b74a1; border-bottom: 15px dashed #0b74a1; border-left: 15px dashed #0b74a1; border-right: 15px dashed #0b74a1; border-top: 15px dashed #0b74a1; color: #b74a1; width: 600px; margin: 0 auto;" width="600">
 <tbody>
 <tr>
 <td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-bottom: 5px; padding-top: 5px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
